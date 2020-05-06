@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no"
+    />
+
+    <script src="https://unpkg.com/scrollreveal@4"></script>
+
+    
+    <link
+      href="https://fonts.googleapis.com/css?family=Roboto"
+      rel="stylesheet"
+    />
+
+
+    <link
+      href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
+      rel="stylesheet"
+      integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN"
+      crossorigin="anonymous"
+    />
+
+    <!-- Bootstrap CSS -->
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css"
+      integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh"
+      crossorigin="anonymous"
+    />
+
+    <style>
+      body {
+        font-family: "Roboto";
+        font-size: 22px;
+      }
+      .progress-bar {
+        width: 0;
+        animation: progress 1.5s ease-in-out forwards;
+      }
+
+      @keyframes progress {
+        from {
+          width: 0;
+        }
+        to {
+          width: 100%;
+        }
+      }
+      p {
+        padding: 35px;
+      }
+    </style>
+
+    <title>Portfolio</title>
+  </head>
+  <body>
+    <div class="jumbotron">
+        <div class="p-3 mb-2 bg-gradient-light text-dark">
+      <div class="container">
+        <h1 text-align="center">Michaela Powers</h1>
+            <div class="container">
+                <div class="row">
+                  <div class="col">
+                      <p class="text-white bg-dark">
+                     Current Northern Kentucky University Student 
+                      <br> B.S. of Computer Information Technology
+					  <br> True crime junky. Foodie. AOII. Family and Friends.
+                      <br />
+                      <br />
+                      <i class="fa fa-envelope" aria-hidden="true"></i>
+                      <a href="mailto:powersm5@nku.edu">Powersm5@nku.edu</a>
+                      <br />
+                      <i class="fa fa-facebook" aria-hidden="true"></i>
+                      <a href="https://www.facebook.com/michaela.powers.726">Michaela Powers</a>
+                     <br> <i class="fa fa-linkedin" aria-hidden="true"></i>
+                      <a href="https://www.linkedin.com/in/michaela-powers"> Michaela Powers </a>
+                      <br> <br> <br> Please feel free to reach out to me. 
+                        
+                    </div>
+                  <div class="col">
+                      <img
+                      src="composite.jpg"
+                      width="400px"
+                      height="500px"
+                      class="rounded"
+                    />
+                  </div>
+                </div>
+            </div>
+          </p>
+        </div>
+      </div>
+    </div>
+  </div>
+    <div class="container">
+      <h1 align="center">About</h1>
+       <div class="col-sm">
+            <p align="center">
+              			Hi! My name is Michaela!
+              <br> I am a current student at Northern Kentucky University working towards a Bachelor of
+              <br> Science in Computer Information Technology with a Focus Area in Organizational Leadership.
+              <br> I currently have a part-time job while attending NKU as a full time student. 
+              <br>
+              <br> Pictured below are some very important people in my life!
+			  <br> I have Christmas with my family, a fun photoshoot with my boyfriend, Eli, a picture
+			  <br> with my little, Kristin, and a picture from when I went parasailing in Flordia with my cousin and uncle!
+			   <div class="col">
+                      <img
+                      src="fam.img"
+                      width="450px"
+                      height="400px"
+                      class="rounded"
+                    />
+                      <img
+                      src="eli.img"
+                      width="500px"
+                      height="400px"
+                      class="rounded"
+                    />
+					<img
+                      src="kris.img"
+                      width="450px"
+                      height="450px"
+                      class="rounded"
+                    />
+					<img
+                      src="para.img"
+                      width="450px"
+                      height="400px"
+                      class="rounded"
+                    />
+                  </div>
+         </p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <br>
+<br> <br> 
+    <div class="container skills" align="center">
+      <h1>True Crime</h1>
+      <div class="container">
+       <br>Here are some of my favorite things to do with true crime!!
+        <br>
+        <br>I've never known why I am so interested in these things, but here we are!
+		<br>Here are some lists of my favorite podcasts, movies and shows. 
+		<br>I will also include where you can find them!
+		<br> <br> 
+        <h1>Podcasts<h1>
+		<h3><a href="https://gimletmedia.com/shows/the-clearing?utm_source=gimletWebsite&utm_medium=copyShare&utm_campaign=gimletWebsite"> The Clearing </a>
+		<br><a href="https://serialpodcast.org"> Serial </a>
+		<br><a href="https://murderish.com"> Murderish </a>
+		<br><a href="https://wrongfulconvictionpodcast.com"> Wrongful Convictions </a>
+		<h3>
+		
+		<br> <br>
+		<h1>Shows, Documentaries, Movies<h1>
+		<h3><a href="https://cbs.com/shows/ncis/episodes"> NCIS </a>
+		<br><a href="https://cbs.com/shows/criminal_minds"> Criminal Minds </a>
+		<br><a href="https://netflix.com/title/80000770"> Making a Murderer </a>
+		<br><a href="https://netflix.com/title/80226612"> Ted Bundy Tapes </a>
+		<br><a href="https://netflix.com/title/80158319"> Evil Genius </a>
+		<br><a href="https://netflix.com/title/80187030"> The Innocent Man </a>
+		<br><a href="https://netflix.com/title/70202589"> Sherlock</a> <h3>
+		
+        <br> <br> <br> 
+    
+      <div class="container">
+          
+        </div>
+<br> <h6> Thank You for visiting my site. Please reach out to me if you would like to connect with me. <h6>
+    </div>
+    <br />
+    <i class="fa fa-envelope" aria-hidden="true"></i>
+                      <a href="mailto:powersm5@nku.edu"></a>
+                      
+                      <i class="fa fa-facebook" aria-hidden="true"></i>
+                      <a href="https://www.facebook.com/michaela.powers.726"></a>
+                     <i class="fa fa-linkedin" aria-hidden="true"></i>
+                      <a href="https://www.linkedin.com/in/michaela-powers"> </a>
+    
+   
+  </body>
+</html>
